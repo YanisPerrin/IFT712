@@ -1,8 +1,0 @@
-pandas
-numpy
-sklearn
-matplotlib
-seaborn
-collections
-os
-sys
